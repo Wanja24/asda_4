@@ -1,0 +1,67 @@
+Name of the cookie,Nickname of the evaluator (anonymous),vegan (yes/no),no of Ingredients,"Sweetness Factor (1, too sweet, 5 just perfect,10 not sweet enough)","Crunch Factor (1 too little crunch - 10 too much crunch, 5just perfect)","Crumble Factor (1, not crumble 10 tooooo much crumble)","Stickiness (0 no, 1 yes)","Appereance (1, is this a cookie? - 10 this cookie is art)","Contains chocolate (0 no, 1 yes)","Creativity(1, plain - I have never eaten such a cookie 10)",shape,color,"moisture (1=dry, 10=moist)",salty,nutty,"spiced (w/ Cinnamon, cloves, ginger etc, yes or no)",Overall Score (1 to 10),coconut,Aroma,"Allergensm (flour, eggs, nuts etc., yes or no)",burnt
+Jacobsen (black),Keks,,,3,6,5,0,9,1,6,,Brown and green,4,,yes,No,7,,,,
+X-MAS,Dr Cookie,yes,8,7,6,,0,8,1,5,circle,brown,4,no,no,no,,no,no,yes,0
+Jacobsen (black),CookieMonster,,,4,5,8,0,9,1,5,Cricle,black & white,3,no,yes,no,9,no,no,no,0
+I've tried my best,cookie regressor,yes,,5,2,,0,8,0,,circle,,8,no,no,no,9,yes,no,no,0
+Chatgpt chocolate cookie,cookie_master,yes,7,7,2,4,0,7,1,5,circle,brown,8,no,no,no,7,no,normal,no,0
+snickerdoodle cookies,UC,no,6,7,7,7,1,10,0,5,circle,cream,8,no,no,yes,9,no,yes,no,0
+X-MAS,Algebra,yes,8,7,5,3,0,8,1,6,Circle,Brown,2,no,no,no,8,no,no,no,0
+Jacobsen (black),survive,,,10,4,5,0,8,1,5,circle,brown,1,no,yes,no,9,no,no,,0
+Jacobsen (black),FBT,no,,3,6,4,0,10,1,8,circle,brown,7,no,,,8,,,,
+X-MAS,cookie_expert,yes,8,6,8,,0,8,1,5,Circle,brown,,no,no,yes,7,no,,yes,
+Jacobsen (white),KrümelMonster,no,,2,7,,0,8,1,5,,,5,,,,8,,,,
+snickerdoodle cookies,KrümelMonster,no,,4,7,7,0,7,0,6,circle,brown,2,no,no,no,6,,,,
+X-MAS,S,yes,8,8,3,,0,8,1,3,circle,brown,2,no,no,no,7,no,,yes,
+snickerdoodle cookies,SweetTooth,no,,4,5,5,0,6,0,8,circle,brown,6,no,no,no,7,no,no,,0
+Jacobsen (white),cookie_master,no,,5,5,4,0,9,1,3,circle,light brown,5,no,no,no,8,no,yes,yes,0
+Vegan Coconut,cookie_dragon,yes,8,5,3,2,1,7,0,6,circle,cream,7,no,no,no,7,yes,yes,no,0
+I've tried my best,pookiecrumb,yes,6,5,3,3,0,10,0,5,circle,white,,no,no,no,8,yes,yes,no,0
+I've tried my best,cookie_master,yes,6,5,3,4,0,8,0,4,Circle,cream,8,no,no,no,7,yes,,,0
+snickerdoodle cookies,COOKIES,no,,6,4,6,0,5,0,3,circle,light brown,3,no,no,yes,3,no,no,yes,1
+X-MAS,cookie_master,yes,8,4,7,7,0,7,1,6,circle,brown,4,no,no,yes,7,no,,yes,0
+I've tried my best,KrümelMonster,yes,,3,3,6,1,7,0,7,circle,cream,8,no,no,yes,7,yes,,,0
+Chatgpt chocolate cookie,Crumb Connoisseur,no,7,7,3,4,1,7,1,7,circle,dark brown,7,no,no,no,8,no,yes,,0
+Chatgpt chocolate cookie,FBT,yes,7,7,2,2,0,4,1,7,circle,dark brown,7,no,no,no,6,,,,
+snickerdoodle cookies,Algebra,no,,7,4,5,1,5,0,3,circle,cream,7,no,no,no,5,no,no,,1
+X-Mas,CookieMonster,yes,8,3,10,5,0,6,1,5,circle,light brown,2,no,no,yes,6,no,no,yes,
+X-mas,Survive,yes,8,10,9,8,0,7,1,5,circle,,1,no,no,no,8,no,no,yes,
+I've tried my best,COOKIES,yes,,5,5,5,0,5,0,3,circle,cream,5,yes,no,no,8,yes,yes,yes,0
+I've tried my best,Dr Cookie,yes,6,7,3,3,0,7,0,6,circle,cream,7,no,no,no,8,yes,Normal,yes,0
+Chatgpt chocolate cookie,Keks,,,6,2,6,1,4,1,3,circle,cream,7,no,no,no,4,,,,
+X-mas,cookie regressor,yes,8,6,8,9,0,7,0,4,circle,white,4,no,no,no,6,no,Normal,,0
+Chatgpt chocolate cookie,S,,7,6,1,,0,7,1,3,circle,dark brown,7,no,no,no,6,no,,,
+X-mas,SweetTooth,yes,8,3,6,4,0,7,0,6,circle,brown,2,no,no,no,6,no,,,
+Chatgpt chocolate cookie,,yes,7,5,2,2,0,9,1,6,circle,dark brown,5,no,no,no,8,no,,,0
+Chatgpt chocolate cookie,survive,yes,7,8,1,1,1,7,1,6,circle,dark brown,10,no,no,no,8,no,normal,,0
+X-mas,cookie_dragon,,8,7,8,7,0,7,1,8,circle,light brown,3,no,no,no,8,no,no,,0
+Jacobsen (black),Algebra,no,,3,2,6,1,9,1,8,circle,dark brown,7,no,yes,no,8,no,yes,no,0
+Jacobsen (black),SweetTooth,no,,4,5,3,0,8,1,4,circle,dark brown,3,no,no,no,9,,,,
+Jacbsen (Black),cookie regressor,no,,5,3,3,0,9,0,7,circle,black,5,no,yes,no,8,no,no,,0
+I've tried my best,ginger cookie man,yes,6,5,3,4,1,6,0,5,circle,cream,4,no,no,no,8,yes,yes,yes,0
+X-mas,SweetTooth,yes,8,4,6,6,0,7,1,7,circle,brown,4,no,yes,yes,8,no,yes,yes,0
+Jacobsen (white),ginger cookie man,no,9,8,9,6,0,4,1,2,circle,light brown,3,no,no,no,8,no,yes,yes,0
+Jacobsen (black),UC,no,10,8,7,6,0,7,1,7,circle,brown,5,no,yes,no,8,no,yes,,0
+Jacobsen (black),COOKIES,no,,7,5,6,0,5,1,3,circle,brown,4,no,no,no,6,no,yes,yes,0
+ive tried my best,Keks,,6,5,3,5,0,6,0,6,,,6,,,,8,yes,,,
+snickerdoodle cookies,Dr Cookie,no,,7,6,7,0,5,0,5,circle,cream,4,no,no,no,6,no,no,no,1
+I've tried my best,FBT,yes,6,5,4,3,1,6,0,6,circle,cream,4,no,no,yes,8,yes,,,0
+I've tried my best,Algebra,yes,,5,2,3,1,5,0,5,circle,cream,8,no,no,no,7,no,no,no,0
+Chatgpt chocolate cookie,CookieMonster,,7,5,6,6,0,9,1,7,circle,dark brown,6,no,no,no,9,no,no,yes,no
+X-mas,Keks,,,2,5,5,0,5,1,3,,,,,,,,,,,
+snickerdoodle cookies,cookie regressor,no,,7,2,2,0,6,0,4,circle,whtile,5,no,no,no,7,no,no,yes,0
+Jacobsen (black),cookie_dragon,no,,7,4,5,1,10,1,9,circle,dark brown,7,no,yes,no,9,no,yes,yes,no
+Chatgpt chocolate cookie,Algebra,yes,,5,2,4,1,3,1,5,circle,dark brown,2,no,no,no,4,no,yes,no,no
+Chatgpt chocolate cookie,COOKIES,yes,,6,5,5,0,5,0,3,circle,dark brown,8,no,no,no,8,no,yes,yes,0
+snickerdoodle cookies,Teddy,no,,5,5,6,,9,0,8,,,,,no,no,9,,yes,,no
+Jacobsen (black),,no,,6,5,5,0,8,1,5,circle,dark brown,6,no,yes,no,8,no,yes,yes,0
+snickerdoodle cookies,CookieMonster,no,,4,5,5,no,9,0,7,circle,cream,7,yes,no,no,8,no,,yes,0
+X-Mas,KrümelMonster,yes,,2,8,8,0,7,1,6,circle,brown,3,no,no,no,6,no,no,,
+X-Mas,COOKIES,yes,,7,8,6,0,5,1,3,circle,light brown,1,yes,no,yes,2,no,no,,0
+snickerdoodle cookies,Keks,,,5,6,5,0,5,,5,,,,,,yes,7,,,,0
+Chatgpt chocolate cookie,Dr Cookie,yes,,7,3,7,0,4,1,6,circle,dark brown,8,0,0,0,7,no,no,no,no
+X-MAS,pookiecrumb,yes,,5,5,8,0,3,1,4,circle,light brown,2,0,0,0,7,no,no,no,no
+X-MAS,FBT,yes,,4,7,7,0,5,1,4,circle,light brown,2,0,0,yes,6,no,,no,no
+I've tried my best,SweetTooth,yes,,6,3,4,0,7,0,6,circle,cream,6,0,0,0,6,yes,,,
+Jacobsen (white),COOKIES,no,,8,5,8,0,5,1,3,circle,cream,2,0,0,0,3,0,0,1,0
+Jacobsen (white),FBT,no,,4,5,6,0,7,1,6,circle,cream,3,0,0,0,8,0,0,1,0
+Lebkuchen Herzen,Crumb Connoisseur,yes,18,3,1,1,1,5,1,4,hart,dark brown,7,no,no,no,6,no,yes,yes,no
